@@ -11,6 +11,7 @@ The Azure Connector for GeoEvent Server allows you to receive real-time data
 from Microsoft Azure hubs and devices. This tutorial will walk you through
 getting started deploying the Azure Connector for GeoEvent Server.
 
+
 Prerequisites
 =============
 
